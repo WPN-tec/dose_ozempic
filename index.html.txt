@@ -6,7 +6,7 @@
 <title>Guardiao Dose Ozempic</title>
 
 
-<meta property="og:title" content="Página sem título">
+<meta property="og:title" content="Guardiao Dose Ozempic">
 
 <meta property="og:type" content="website">
 
